@@ -1,2 +1,4 @@
 # R
-This course, which is the second course of the data science specialization from Johns Hopkins University on Coursera, covers practical issues in statistical computing which includes programming in R, reading data into R, accessing R packages, writing R functions, debugging, and organizing and commenting R code. Topics in statistical data analysis and optimization will provide working examples.
+This course, which is the second course of the data science specialization from Johns Hopkins University on Coursera, covers practical issues in statistical computing which include programming in R, writing R functions and debugging. Each week, programming assignments were given.
+
+Verified Course Record is available at: 
